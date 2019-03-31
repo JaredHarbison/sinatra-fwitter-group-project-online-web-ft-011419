@@ -1,1 +1,2 @@
-class Tweet
+class Tweet < ActiveRecord::Base 
+end 
